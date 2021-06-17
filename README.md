@@ -11,8 +11,12 @@
 #### Business analysis 
 - Business analysis fundamentals (Aug 2020) 
 - Functional and non-functional requirements (May 2021) 
+- Data flow diagrams to visualize workflows (May 2021)
 
 #### Software architecture; Systems thinking
 - Systems thinking (Aug 2019)
 - The complete guide to becoming a software architect (May 2021) 
 
+#### ITIL 4 
+- Introduction to service management with ITIL 4 (Jun 2021)
+- Creating measures and metrics using ITIL 4 framework (May 2021)
