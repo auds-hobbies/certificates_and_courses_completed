@@ -23,4 +23,4 @@ In my spare time, I work on some "self-created" projects, as a way to practise m
 - Creating measures and metrics using ITIL 4 framework (May 2021)
 
 #### 'Fictional' Projects 
-- Requirements (documentation) on "Visualization of Crime in SFO" project. (Link)
+- Requirements (documentation) on <i>"Visualization of Crime in SFO"</i> project. (<a href="https://github.com/auds-hobbies/dashboard_crime_geo_visualization">Link</a>)
