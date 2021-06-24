@@ -1,4 +1,4 @@
-# Self-Defined Projects, certificates_and_courses_completed
+# Self-defined projects, certificates_and_courses_completed
 In my spare time, I work on some "self-created" projects, as a way to practise my skills in Business Analysis, Data Science/Machine learning, and web development. This repository captures courses I have taken as well as some requirements documentation on my 'fictional' projects.
 
 #### Data Science / Machine learning courses taken 
