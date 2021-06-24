@@ -12,7 +12,7 @@ In my spare time, I work on some "self-created" projects, as a way to practise m
 - Business analysis fundamentals (Aug 2020) 
 - Functional and non-functional requirements (May 2021) 
 - Data flow diagrams to visualize workflows (May 2021)
-- <b>PMP<b> Certification in Project Management (2011) (<a href="https://www.pmi.org/certifications/certification-resources/registry">Link</a>) 
+- <b>PMP</b> Certification in Project Management (2011) (<a href="https://www.pmi.org/certifications/certification-resources/registry">Link</a>) 
 
 #### Software architecture; Systems thinking
 - Systems thinking (Aug 2019)
