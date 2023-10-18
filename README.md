@@ -1,9 +1,8 @@
-# Self-defined projects, certificates_and_courses_completed
+# 
 In my spare time, I work on 'fictional' projects in python.
 
 #### Data Science / Machine learning courses taken 
 - To be completed
-
 
 #### Software architecture; Systems thinking
 - Systems thinking (Aug 2019)
